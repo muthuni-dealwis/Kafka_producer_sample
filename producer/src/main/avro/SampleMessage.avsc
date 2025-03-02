@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "Message",
+  "namespace": "com.example.schema",
+  "fields": [
+    {"name": "id", "type": "int"},
+    {"name": "message", "type": "string"}
+  ]
+}
